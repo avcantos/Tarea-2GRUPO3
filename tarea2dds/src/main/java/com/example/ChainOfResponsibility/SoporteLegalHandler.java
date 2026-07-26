@@ -1,5 +1,6 @@
-package ChainOfResponsability;
-import usuarios.SoporteLegal;
+package com.example.ChainOfResponsibility;
+import com.example.dominio.incidentes.*;
+import com.example.dominio.usuarios.SoporteLegal;
 public class SoporteLegalHandler extends ManejadorIncidente {
 
     private SoporteLegal asignado;

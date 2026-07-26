@@ -1,5 +1,6 @@
-package ChainOfResponsability;
-import usuarios.Moderador;
+package com.example.ChainOfResponsibility;
+import com.example.dominio.incidentes.*;
+import com.example.dominio.usuarios.Moderador;
 
 public class ModeradorHandler extends ManejadorIncidente {
 

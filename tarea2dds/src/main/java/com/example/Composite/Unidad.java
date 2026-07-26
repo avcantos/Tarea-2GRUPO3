@@ -1,6 +1,7 @@
-package Composite;
+package com.example.Composite;
 import java.util.Date;
-import estados.*;
+
+import com.example.State.*;
 
 public class Unidad implements CompPropiedad {
 

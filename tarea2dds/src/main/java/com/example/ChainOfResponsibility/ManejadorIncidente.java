@@ -1,4 +1,5 @@
-package ChainOfResponsability;
+package com.example.ChainOfResponsibility;
+import com.example.dominio.incidentes.*;
 public abstract class ManejadorIncidente {
 
     protected ManejadorIncidente siguiente;

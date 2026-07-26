@@ -1,5 +1,7 @@
-package ChainOfResponsability;
-import usuarios.Anfitrion;
+package com.example.ChainOfResponsibility;
+import com.example.dominio.incidentes.*;
+import com.example.dominio.usuarios.Anfitrion;
+
 public class AnfitrionHandler extends ManejadorIncidente {
 
     private Anfitrion asignado;
